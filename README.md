@@ -123,12 +123,3 @@ git push origin feature-branch
 - Ensure all files are committed and pushed.
 - Submit repository URL per the assignment instructions.
 
-***
-
-**Contact**: For any questions, contact [Your Name] at [your.email@university.edu].
-
-***
-
-Feel free to ask for a personalized README section or example SQL/DAG snippets!
-
-[1](https://learn.udacity.com/nd222-ent-wgu-data-eng-d608?version=1.0.12&partKey=cd12380&lessonKey=eee08502-257f-4093-bf38-54c03f03859b&tab=resources&project=rubric)
